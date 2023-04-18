@@ -86,6 +86,14 @@ export default class Api {
         })
             .then(res => this._checkStatusRes(res))
     }
+
+    changeLikeCardStatus(isLiked, cardId) {
+        return fetch(`${this._url}/cards/${cardId}/likes`, {
+            headers: this._headers,
+            method: isLiked ? 'DELETE' : 'PUT'
+        })
+            .then(res => this._checkStatusRes(res))
+    }
 }
 
 export const api = new Api(options)
