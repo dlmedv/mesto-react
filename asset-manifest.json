@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mesto-react.git/static/css/main.d445f6ab.css",
+    "main.js": "/mesto-react.git/static/js/main.81be4741.js",
+    "static/media/Inter-Medium.woff": "/mesto-react.git/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/mesto-react.git/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/mesto-react.git/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/mesto-react.git/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/mesto-react.git/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/mesto-react.git/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/Vector.svg": "/mesto-react.git/static/media/Vector.03b78ada3425e9132ff3db7ea8f4a6f6.svg",
+    "static/media/element.svg": "/mesto-react.git/static/media/element.87ed371465c7a6a1cd01.svg",
+    "static/media/Trash.svg": "/mesto-react.git/static/media/Trash.cbc09a894bdd4c956365.svg",
+    "static/media/Union.svg": "/mesto-react.git/static/media/Union.e787eeb70bb65b7b453a.svg",
+    "index.html": "/mesto-react.git/index.html",
+    "static/media/button_edit.svg": "/mesto-react.git/static/media/button_edit.8667ac4a523e8fc42e59.svg",
+    "static/media/Vector_edit.svg": "/mesto-react.git/static/media/Vector_edit.a086f758840ae814ecde.svg",
+    "static/media/close_icon.svg": "/mesto-react.git/static/media/close_icon.2ceb783afbab75916ddc.svg",
+    "static/media/button_add.svg": "/mesto-react.git/static/media/button_add.d86bb2edc2f6eadb96b7.svg",
+    "main.d445f6ab.css.map": "/mesto-react.git/static/css/main.d445f6ab.css.map",
+    "main.81be4741.js.map": "/mesto-react.git/static/js/main.81be4741.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d445f6ab.css",
+    "static/js/main.81be4741.js"
+  ]
+}
