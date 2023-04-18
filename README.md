@@ -1,4 +1,4 @@
-# Проект: [https://dlmedv.github.io/mesto-react/]
+# Проект: [Mesto](https://dlmedv.github.io/mesto-react/)
 
 ### Обзор
 
